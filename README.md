@@ -10,7 +10,8 @@
  
  After python installation, run cmd or terminal and just run following commands 
  ```
- 1: python get-pip.py
- 2: pip insatll mutagen
+ 1. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+ 2. python get-pip.py
+ 3. pip insatll mutagen
  ```
  
